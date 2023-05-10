@@ -1,2 +1,2 @@
 # Exercicios-Logica
-Exercícios de Lógica
+Exercícios de Lógica com VisualG
